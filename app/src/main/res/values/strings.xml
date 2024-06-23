@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CRUD Notes</string>
+    <string name="add_data">Tambah Data</string>
+    <string name="save">Simpan</string>
+    <string name="enter_title">Masukkan Judul</string>
+    <string name="enter_description">Masukkan Deskripsi</string>
+    <string name="photo_profile">Foto Profil</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Hapus</string>
+    <string name="no_data_found">Tidak ada data ditemukan</string>
+    <string name="data_successfully_deleted">data berhasil di hapus</string>
+    <string name="data_successfully_updated">data berhasil di update</string>
+    <string name="data_successfully_save">data berhasil di simpan</string>
+    <string name="description_empty_error">Deskripsi Tidak Boleh Kosong</string>
+    <string name="title_empty_error">Judul Tidak Boleh Kosong</string>
+</resources>
