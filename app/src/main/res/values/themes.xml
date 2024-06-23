@@ -16,7 +16,6 @@
     <style name="Theme.MyApplication.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="Theme.MyApplication.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
-    <!-- TODO 5 Customize widget editText. -->
     <style name="TextInputLayoutBoxColor" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
         <item name="boxStrokeColor">@color/purple_200</item>
     </style>
